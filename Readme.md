@@ -104,7 +104,7 @@ dist/basicGui_audio.exe
 
 ## 👤 Author
 
-**Laksh**
+**Lakshya**
 Python Desktop Application Project
 
 ---
